@@ -1,0 +1,15 @@
+@import './vendor.scss';
+@import './style.less';
+@poimport url('https://fonts.googleapis.com/css?family=Love+Ya+Like+A+Sister');
+.navbar-brand {
+    font-family: 'Love Ya Like A Sister', cursive;
+    font-size: 30px;
+    text-shadow: 2px 2px skyblue;
+    color: white;
+}
+
+.body {
+    background: url('https://cdn.pixabay.com/photo/2016/08/24/08/46/heart-1616465__340.jpg');
+    height: 200px;
+    width: 200
+}
